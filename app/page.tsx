@@ -26,12 +26,12 @@ export default function Home() {
               Senior & Lead Software Developer, McMaster University — 2020-2023 (3 years)
           </h3>
           <p>
-              Grew and then led McMaster University’s dedicated research software development (RSD) team as a developer, mentor, and project lead.
+              Grew and then led McMaster University&aposs dedicated research software development (RSD) team as a developer, mentor, and project lead.
           </p>
           <ul className="list-inside list-disc">
-            <li>Engaged in the full lifecycle of McMaster’s laboratory information management system known as MacLIMS. By deploying this system to our partnering research institutes I streamlined their day-to-day operations including: billing, equipment scheduling, and user management.</li>
+            <li>Engaged in the full lifecycle of McMaster&aposs laboratory information management system known as MacLIMS. By deploying this system to our partnering research institutes I streamlined their day-to-day operations including: billing, equipment scheduling, and user management.</li>
             <li>Developed and maintained backend and front end features of MacLIMS using Yii2 (a PHP Model-View-Controller framework), Javascript ES6+, PostgreSQL, responsive HTML and CSS.</li>
-            <li>Configured RESTful APIs and web services for integrating with McMaster’s centralized IT and business systems such as financial services for direct billing.</li>
+            <li>Configured RESTful APIs and web services for integrating with McMaster&aposs centralized IT and business systems such as financial services for direct billing.</li>
             <li>Hired, managed, and mentored junior developers on software development best practices and established DevOps processes. I helped boost productivity by equipping the team with core tools for: version control, issue management, and project management.</li>
             <li>Administered a production RedHat Enterprise Linux server and managed web traffic scaling, security, database configuration, package updates, and content deployment.</li>
             <li>Completed regular change and release management using Git in tiered production and development environments, including creating testing plans and change documentation.</li>
@@ -47,7 +47,7 @@ export default function Home() {
               Software Developer, McMaster University — 2019-2020 (1 year)
           </h3>
           <p>
-              As part of the Department of Research and High Performance Computing Support, I helped establish McMaster University’s first centralized team designed explicitly to support McMaster's research community with professional software development services. 
+              As part of the Department of Research and High Performance Computing Support, I helped establish McMaster University&aposs first centralized team designed explicitly to support McMaster&aposs research community with professional software development services. 
           </p>
           <ul className="list-inside list-disc">
                   <li>
@@ -60,7 +60,7 @@ export default function Home() {
                       Transformed our clients research ideas into software realities through requirements, business, and workflow analysis. Helped train researchers in software development best practices and guided them in developing their own software.
                   </li>
                   <li>
-                      Collaborated with our partners at the university towards understanding how to best serve the university’s growing software needs by developing KPI, creating documentation, establishing standards, and establishing a community of practice that can help inform future growth.
+                      Collaborated with our partners at the university towards understanding how to best serve the university&aposs growing software needs by developing KPI, creating documentation, establishing standards, and establishing a community of practice that can help inform future growth.
                   </li>
               </ul>
       </div>
